@@ -9,7 +9,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: solutions/argocd/python-manifests
-    repoURL: https://github.com/udacity/nd064_course_1 
+    path: nd064_course_1/solutions/argocd/python-manifests
+    repoURL: https://github.com/sudhanshu-gangele/2_python_project 
     targetRevision: HEAD
   syncPolicy: {}
